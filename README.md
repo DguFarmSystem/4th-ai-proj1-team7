@@ -27,7 +27,7 @@
 ## 📚 참고 자료 (References)  
 
 ### 🔍 논문 및 연구자료  
-https://arxiv.org/abs/2311.00968 (Video2Music: Suitable Music Generation from Videos using an Affective Multimodal Transformer mode) 
+- https://arxiv.org/abs/2311.00968 (Video2Music: Suitable Music Generation from Videos using an Affective Multimodal Transformer mode) 
 
 ### 📁 데이터셋  
 - https://zenodo.org/records/10057093 (MuVi-Sync Dataset)
