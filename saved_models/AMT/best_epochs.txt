@@ -1,0 +1,2 @@
+Best val loss epoch: 19
+Best val loss: 1.0355972009045737

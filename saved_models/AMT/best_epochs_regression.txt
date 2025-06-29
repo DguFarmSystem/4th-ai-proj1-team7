@@ -1,0 +1,4 @@
+Best val RMSE epoch: 9
+Best val RMSE: 1.1888619320733207
+Best val loss epoch: -1
+Best val loss: inf
