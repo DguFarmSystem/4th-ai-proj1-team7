@@ -28,7 +28,7 @@
 
 ### 🔍 논문 및 연구자료  
 - https://arxiv.org/abs/2311.00968 (Video2Music: Suitable Music Generation from Videos using an Affective Multimodal Transformer mode) 
-- https://joss.theoj.org/papers/10.21105/joss.03391 (Omnizart)
+- https://joss.theoj.org/papers/10.21105/joss.03391 (omnizart)
 - https://arxiv.org/abs/1907.02698 (A Bi-directional Transformer for Musical Chord Recognition)
 - https://arxiv.org/abs/2103.00020 (Learning Transferable Visual Models From Natural Language Supervision)
   
@@ -39,4 +39,5 @@
 ### 🧪 오픈소스  
 - https://github.com/AMAAI-Lab/Video2Music (Video2Music)
 - https://github.com/gwinndr/MusicTransformer-Pytorch (MusicTransformer-Pytorch)
+- https://github.com/Music-and-Culture-Technology-Lab/omnizart/tree/master (omnizart)
 - https://github.com/jayg996/BTC-ISMIR19/tree/master (BTC-ISMIR19)
